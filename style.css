@@ -1,0 +1,210 @@
+/* style.css */
+/* .underline-orange {
+  position: relative;
+  display: inline-block;
+  left: 50;
+  right: 50;
+  color: rgb(3, 3, 44); /* Text color */
+/* } */
+/* .underline-orange::after {
+  content: "";
+  position: absolute ;
+  left: 60;
+  right: 50;
+  bottom: -5px; /* Adjust as needed */
+  /* width: 100%;
+  height: 4px; /* Adjust the thickness of the underline */
+  /* background-color: orange;
+
+
+
+} */ 
+
+/* Engineerin  college*/
+
+.background-section {
+  background-color: #1b3463;
+  background-image: url('https://abesit.edu.in/wp-content/uploads/2019/10/IMG_8634-FILEminimizer.jpg');
+  background-size: cover;
+  background-position: center;
+  padding: 80px 70px 55px 55px;
+  color: #ffffff;
+}
+.title-section {
+  font-size: 30px;
+  font-weight: 700;
+  letter-spacing: 0;
+  color: #ffffff;
+  padding-bottom: 20px;
+}
+.text-box {
+  font-size: 18px;
+  color: #c1d3ff;
+  padding-bottom: 20px;
+}
+.button {
+  font-size: 15px;
+  color: #ffffff;
+  padding: 12px 29px 17px 31px;
+  text-transform: none;
+  border-radius: 2px;
+  background: #ee8b21;
+  text-decoration: none;
+}
+.button:hover {
+  background: #e87e2f;
+}
+
+
+/* Pharmacy College */
+
+ 
+
+
+.background-section {
+  background-color: #1b3463;
+  background-image: url('https://abesit.edu.in/wp-content/uploads/2019/10/IMG_3164.jpg');
+  background-size: cover;
+  background-position: center;
+  padding: 80px 70px 0px 55px;
+  color: #ffffff;
+}
+.title-section {
+  font-size: 30px;
+  font-weight: 700;
+  letter-spacing: 0;
+  color: #ffffff;
+  padding-bottom: 20px;
+}
+.text-box {
+  font-size: 18px;
+  color: #c1d3ff;
+  padding-bottom: 20px;
+}
+.button {
+  font-size: 15px;
+  color: #ffffff;
+  padding: 12px 29px 17px 31px;
+  text-transform: none;
+  border-radius: 2px;
+  background: #ee8b21;
+  text-decoration: none;
+}
+.button:hover {
+  background: #e87e2f;
+}
+
+
+/* Engineering */
+
+.contact-section {
+  padding: 80px 70px 55px 55px;
+  background-color: #1b3463;
+  color: #ffffff;
+  background-image: url(https://abesit.edu.in/wp-content/uploads/2019/10/IMG_8634-FILEminimizer.jpg);
+  background-size: cover;
+  background-position: center;
+  height: auto;
+  position: relative;
+}
+.contact-section h3 {
+  font-size: 30px;
+  font-weight: 700;
+  letter-spacing: 0;
+  color: #ffffff;
+}
+.contact-section .divider {
+  border-color: #ee8b21;
+  border-width: 4px;
+  border-style: solid;
+  margin: 20px 0;
+}
+.contact-section .text-box {
+  font-size: 18px;
+  color: #c1d3ff;
+}
+
+  /* Pharmaci */
+/* style.css */
+#gdlr-core-custom-menu-widget {
+  padding: 0;
+  margin: 0;
+  list-style: none; /* Removes default bullet points */
+ 
+}
+.card-title{
+  margin-bottom: 15px; /* Space below the title */
+  color: #ff7700; 
+}
+
+#gdlr-core-custom-menu-widget .menu-item {
+  margin-bottom: 10px; /* Space between menu items */
+}
+#menu-quick-links-engg .menu-item a{
+  padding: 10px 15px; /* Adjust padding as needed */
+  text-decoration: none;
+  color: #d4d8dc; /* Text color */
+  border-radius: 4px; /* Rounded corners */
+  transition: background-color 0.3s;
+}
+
+#card-body .menu-item a {
+  /* display: block; */
+  padding: 10px 15px; 
+  text-decoration: none;
+  color: #eef0f3; 
+  border-radius: 4px;
+}
+
+#menu-quick-links-engg .menu-item a:hover {
+  background-color: #090909; /* Light gray background on hover */
+  color: #0056b3; /* Darker text color on hover */
+}
+
+/* .kingster-normal-menu { */
+  /* Additional custom styles for .kingster-normal-menu if needed */
+/* } */
+
+
+
+/* style.css */
+.kingster-widget-title {
+  font-size: 1.5rem; /* Adjust size as needed */
+  margin-bottom: 15px; /* Space below the title */
+  color: #ff7700; /* Change to desired color */
+}
+#menu-quick-links-engg{
+  background-color: #000; /* Light gray background for the widget */
+  padding: 15px; /* Padding around the widget */
+  border-radius: 8px; 
+}
+.menu-quick-links-pharma-container {
+  margin-top: 15px; /* Space above the menu */
+}
+
+#gdlr-core-custom-menu-widget-2 {
+  background-color: #000; /* Light gray background for the widget */
+  padding: 15px; /* Padding around the widget */
+  border-radius: 8px; /* Rounded corners */
+}
+
+#gdlr-core-custom-menu-widget-2 .menu-item {
+  margin-bottom: 10px; /* Space between menu items */
+}
+
+#gdlr-core-custom-menu-widget-2 .menu-item a {
+  /* display: block; */
+  padding: 10px 15px; /* Adjust padding as needed */
+  text-decoration: none;
+  color: #d4d8dc; /* Text color */
+  border-radius: 4px; /* Rounded corners */
+  transition: background-color 0.3s; /* Smooth transition for hover effect */
+}
+
+#gdlr-core-custom-menu-widget-2 .menu-item a:hover {
+  background-color: #0c0c0c; /* Light gray background on hover */
+  color: #0056b3; /* Darker text color on hover */
+}
+
+
+
